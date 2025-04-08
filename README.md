@@ -1,4 +1,4 @@
-#  Smart File Manager & Analyzer (Java CLI Project)
+#  File Manager & Analyzer (Java CLI Project)
 
 A Java-based CLI utility for smart file operations and analysis, built with multithreading, custom data structures, and JDBC-based MySQL integration for persistent logging.
 
