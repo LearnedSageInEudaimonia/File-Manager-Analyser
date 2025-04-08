@@ -1,0 +1,8 @@
+CREATE DATABASE IF NOT EXISTS filemanager;
+USE filemanager;
+
+CREATE TABLE IF NOT EXISTS action_logs (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    description TEXT,
+    timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
